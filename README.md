@@ -1,3 +1,3 @@
 # Hello-world
 Hands on learning is the best learning.....
-print("Hello, world! I am excited to enter this completely new world and a profession that will continually challenge me.....")
+<<< Hello world, I am learning a new skill which is exciting because it is a skill that will require ongoing professional learning.
